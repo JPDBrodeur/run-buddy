@@ -12,3 +12,5 @@ https://jpdbrodeur.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by John Brodeur
+
+### ©️2021 Run Buddy, Inc 
