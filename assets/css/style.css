@@ -333,7 +333,7 @@ footer a {
 
 .contact-form button {
     width: 100%;
-    border: nonw;
+    border: none;
     background: #fce138;
     color: #024e76;
     text-align: center;
